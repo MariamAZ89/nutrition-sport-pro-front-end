@@ -16,7 +16,7 @@ This project is built with:
 
 To use the backend API, please clone and follow the setup instructions from the following repository:
 
-👉 [Backend GitHub Repository](https://github.com/MariamAZ89/NutriSportPro/)
+👉 [Backend GitHub Repository](https://github.com/MariamAZ89/nutrition-sport-pro-back-end/)
 
 ---
 
